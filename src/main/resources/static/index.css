@@ -1,0 +1,20 @@
+body{
+    background-color: white;
+    whidth: auto;
+    height: auto;
+
+}
+.painel{
+ whidth: 200px;
+ height: 150px;
+ background-color: dimgray;
+ border:1px solid black;
+display: flex;
+align-items: center;
+justify-content: center;
+text-align:center;
+
+
+
+
+}
